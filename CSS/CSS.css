@@ -1,32 +1,30 @@
-h2{width: 100px ; margin: 0px auto;}
+.text2{width: 100px ; margin: 0px auto;}
 form {margin: 0 auto;width: 400px;padding: 5px;border: 1px solid rgb(216, 2, 2);border-radius: 1em;}
-ul {list-style: none;padding: 0;margin: 0;}
-form li + li {margin-top: 5px;}
+#contacte2 {list-style: none;padding: 0;margin: 0;}
+.contacte li + li {margin-top: 5px;}
 label {display: inline-block;width: 90px;text-align: right;}
 input,textarea {font: 14px sans-serif;width: 300px;box-sizing: border-box;border: 1px solid #999;}
-input:focus,
-textarea:focus {border-color: rgb(255, 255, 255);}
+input:focus,textarea:focus {border-color: rgb(255, 255, 255);}
 textarea {vertical-align: text-top;height: 5px;}
 .button {padding-left: 90px; }
 table{width: 600px;margin: 0px auto;}
-div{ border-color: white;border-style: solid;}
-div#center{ border: 10px; border-color:rgb(177, 164, 147) ;border-style: solid;}
-div#contacte{border: 10px;border-color: white ;border-style: solid;}
-div#oferta{border: 10px;border-color: rgb(177, 164, 147) ;border-style: solid;}
- div#general{border: 10px;border-color: white ;border-style: solid;}
- div#first{border-color: rgb(255, 255, 255);border-width: 20px;}
-table#tabla{width: 100%; }
-form#clase{margin: auto;margin: 0 auto;width: 400px;padding: 5px;border: 1px solid rgb(206, 191, 191);border-radius: 1em;border-bottom: 4px;float: left; }  
-form#clase1{margin: auto;margin: 0 auto;width: 400px;padding: 5px;border: 1px solid rgb(206, 191, 191); border-radius: 1em;}
-html,body{margin:0;padding:0}
-p{margin:0 10px 10px}
+.Pagina1{ border-color: white;border-style: solid;}
+.center{ border: 10px; border-color:rgb(177, 164, 147) ;border-style: solid;}
+.contacte{border: 10px;border-color: white ;border-style: solid;}
+.oferta{border: 10px;border-color: rgb(177, 164, 147) ;border-style: solid;}
+.general{border: 10px;border-color: white ;border-style: solid;}
+.first{border-color: rgb(255, 255, 255);border-width: 20px;}
+.tabla{width: 100%; }
+.clase{margin: auto;margin: 0 auto;width: 400px;padding: 5px;border: 1px solid rgb(206, 191, 191);border-radius: 1em;border-bottom: 4px;float: left; }  
+.clase1{margin: auto;margin: 0 auto;width: 400px;padding: 5px;border: 1px solid rgb(206, 191, 191); border-radius: 1em;}
+.text{margin:0 10px 10px;}
 a{padding:5px; text-decoration:none; color:#000000;}
 .primera{border-bottom: 20px solid rgb(43, 228, 136) ; background-color: rgb(43, 228, 136); }
 
 
 
 
-.cuerpo{margin: 0; padding: 0; box-sizing: border-box; }
+.cuerpo{margin: 0; padding: 0; box-sizing: border-box; background:#d4d49f ;}
 .container-all{width: 100%; max-width: 1000px; margin: auto; padding: 60px; background: white; margin-top: 100px; border-top: 6px solid rgb(86, 223, 86);}
 .title{font-size: 40px; margin-bottom: 60px; }
 .container-all img{ width: 300px; float: left; margin-right: 20px; margin-bottom: 20px;}
@@ -34,37 +32,43 @@ a{padding:5px; text-decoration:none; color:#000000;}
 .sub-title{font-size: 30px; font-weight: 300; margin-top: 20px; margin-bottom: 20px;}
 .Red{color: red; margin: 10px;}
 .primeraA{margin-bottom: 50px;}
-.primera{border-bottom: 20px solid rgb(43, 228, 136) ; background-color: rgb(43, 228, 136); }
+
 .red{margin-left: 20px; margin-top: 20px;}
 
-
+.primera1{border-bottom: 20px solid rgb(43, 228, 136) ; background-color: rgb(43, 228, 136); }
 .primera{border-bottom: 20px solid rgb(43, 228, 136) ; background-color: rgb(43, 228, 136); }
 .red{margin-left: 20px; margin-top: 20px;}
 .container-all{width: 100%; max-width: 1000px; margin: auto; padding: 60px; background: white; margin-top: 100px; border-top: 6px solid rgb(86, 223, 86);}
 .title{font-size: 40px; margin-bottom: 15px; margin-top: 40px; }
 .Forma1{margin: 60px auto; box-sizing: content-box; border-top: 3px solid black; border-radius: 10px; border-left: 2px solid rgb(216, 203, 203); border-right: 2px solid rgb(216, 203, 203); border-bottom: 2px solid rgb(216, 203, 203);}
 .separacion{margin-top: 25px; margin-left: 10px;}
-.separacion2{margin-left: 10px; margin-top: 40px; border-bottom: 3px solid rgb(226, 218, 218); margin-bottom: 20px; margin-right: 20px;}
+.separacion4{margin-left: 10px; margin-top: 40px; border-bottom: 3px solid rgb(226, 218, 218); margin-bottom: 20px; margin-right: 20px;}
 .Red{color: red; margin: 10px;}
 
 
 
-.pagina{width: 100%; max-width: 1000px; margin: auto; padding: 60px; background: white; margin-top: 100px; border-top: 6px solid rgb(86, 223, 86);   ;}
-   div#primeraA{margin: 10px ; width: 100%; border:200px;}
-   div#primeraAA{margin: 100px; width: 100%; border:200px;}
-   div#primera{margin: 50px; width: 100%; border:30px;}
+.pagina{width: 100%; max-width: 1000px; margin: auto; padding: 60px; background: white; margin-top: 100px; border-top: 6px solid rgb(86, 223, 86); }
+   .primeraA{margin: 10px ; width: 100%; border:200px;}
+   .primeraAA{margin: 100px; width: 100%; border:200px;}
+   .primera1{margin: 50px; width: 100%; border:30px; background-color: }
     div#segunda{margin: 50px; width: 100%; border:30px;}
     .color{color: red; margin: 10px;} 
-    h2#separacion{margin: 20px;}
-    li#Separacion1{margin: 10px;}
-    li#Separacion2{ margin: 5px;}
-    p#Red{color: red;}
+    .separacion{margin: 20px;}
+   .Separacion1{margin: 10px;}
+    .Separacion2{ margin: 5px;}
+   
     ul{margin-top: 10px;}
-    div#pagina{ border-top-style: solid; border-color:#d4d49f;}
+   .pagina{ border-top-style: solid; border-color:#d4d49f;}
     form{ border-color: black; margin: auto; width: 500px; margin-top: 20px; border: 1px solid; border-radius: 5px; }
-    .separacion1{margin-left: 20px;}
+    .separacion1{margin-left: 20px; }
     .separacion2{margin-left: 20px;}
     .margen{margin-bottom: 20px;}
-    .primera{border-bottom: 20px solid rgb(43, 228, 136) ; background-color: rgb(43, 228, 136); }
-    .primera{border-bottom: 20px solid rgb(43, 228, 136) ; background-color: rgb(43, 228, 136); }
+    
+    
     .red{margin-left: 20px; margin-top: 20px;}
+  
+
+    .principio{margin: auto; border: 0;}
+   
+    .margen0{margin: 0px; border: 0; background-color:rgb(43, 228, 136) ;}
+    .red1{margin-bottom: 20px; border-color: #000000;}
